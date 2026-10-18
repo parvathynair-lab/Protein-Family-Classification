@@ -22,3 +22,4 @@ The model achieves near-flawless isolation of structurally isolated families lik
 
 ## 🛠️ Local Web Deployment
 A functional web application frontend interface is built inside the ecosystem utilizing `Streamlit`.
+https://protein-family-classification-hierarchical-clustering.streamlit.app/
